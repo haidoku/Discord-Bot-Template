@@ -9,9 +9,6 @@
 
 ### PROGRAMMING LANGUAGES
 - Python (discord.py)
-- JavaScript (discord.js)
-- GoLang (discordgo)
-- Java (Discord4J)
 
 
 That's basically it.
