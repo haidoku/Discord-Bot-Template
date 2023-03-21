@@ -7,9 +7,8 @@
 - .coinflip (Responds with Heads or Tails)
 
 
-### PROGRAMMING LANGUAGES
+### PROGRAMMING LANGUAGE
 - Python (discord.py)
-
 
 That's basically it.
 
